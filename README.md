@@ -30,4 +30,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Music é um projeto.
 
-- [Visite o projeto online](https://isabellaaramos.github.io/nlw-habits)
+- [Visite o projeto online](https://isabellaaramos.github.io/Music/)
